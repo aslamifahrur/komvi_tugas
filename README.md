@@ -4,7 +4,7 @@
 
 **Buka kode:** [`Starter_Stereo_1HP.ipynb`](Starter_Stereo_1HP.ipynb). README ini berisi **apa yang dilakukan dan apa yang dicatat**. Notebook berisi kode yang dijalankan.
 
-![Set-up satu HP](images/01_setup.png)
+![Set-up satu HP](images/5.png)
 
 ## 1. Siapkan alat
 
@@ -94,7 +94,7 @@ Jalankan sel notebook **berurutan dari A sampai G**:
 
 ## 6. Cek hasil sebelum menyimpulkan jarak
 
-![Pipeline](images/05_pipeline.png)
+![Pipeline](images/1_.png)
 
 - **Kalibrasi:** banyak sudut terdeteksi dan RMS cukup kecil; RMS adalah indikator, bukan jaminan akurasi depth.
 - **Alignment:** titik yang cocok pada foto L/R seharusnya hampir berada pada baris yang sama. Jika notebook menghentikan proses, ulang pengambilan foto stereo dengan posisi lebih stabil.
