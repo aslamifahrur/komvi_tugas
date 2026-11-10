@@ -119,5 +119,6 @@ Rumus: `Error (%) = abs(Z_est - Z_true) / Z_true × 100`. Jika disparity tidak v
 2. Notebook `.ipynb` **yang sudah dijalankan**, dengan hasil kalibrasi, visualisasi disparity dan depth, serta tabel pengukuran.
 3. Tabel tiga pengukuran dan **analisis singkat**: mengapa hasil berbeda dari meteran? apa pengaruh tekstur, baseline, dan kemiringan HP?
 4. **Dua flowchart buatan mahasiswa**: (a) kalibrasi `foto → deteksi corner → cek jumlah → calibrateCamera → simpan parameter`; (b) `foto L/R → undistort → cek alignment → disparity → depth → ROI → error`. Cantumkan **percabangan saat foto gagal terdeteksi atau alignment gagal**.
+5. Dokumentasi, berupa video dan foto percobaan.
 
 **Selesai jika:** Anda dapat menunjukkan nilai `fx` hasil kalibrasi HP, screenshot disparity/depth, dan tiga hasil jarak atau penjelasan teknis yang terukur tentang kegagalannya.
